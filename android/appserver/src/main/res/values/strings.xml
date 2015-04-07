@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Remote Wake-on-Lan Server</string>
+    <string name="app_name">Remote Wake-on-LAN Server</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="invalid_mac_address">Invalid MAC address.</string>
+    <string name="invalid_hex_digit_in_mac_address">Invalid hex digit in MAC address.</string>
+    <string name="wol_packet_sent">Wake-on-LAN packet sent (%1$s %2$s %3$d).</string>
+    <string name="wol_packet_failed">Failed to send Wake-on-LAN packet (%1$s).</string>
 
 </resources>
